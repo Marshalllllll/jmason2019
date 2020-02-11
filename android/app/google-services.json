@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576312511255",
+    "firebase_url": "https://jmason2019h-db74d.firebaseio.com",
+    "project_id": "jmason2019h-db74d",
+    "storage_bucket": "jmason2019h-db74d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576312511255:android:78a3b499881b8119018552",
+        "android_client_info": {
+          "package_name": "com.example.jmason2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576312511255-96uq54ima6qsa7dc3bsk3scm9kuqjalc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFeSBONqoTfM8G8rNOeE7h94h2_JK1Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576312511255-96uq54ima6qsa7dc3bsk3scm9kuqjalc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
